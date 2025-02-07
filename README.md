@@ -1,1 +1,2 @@
 # Etch-a-Sketch
+this project is created by the odin project, it's a browser version of something between a sketchpad and an Etch-A-Sketch, it's a great project to sharp and improve my skills in DOM manipulation, I know it's not going to be easy but I'm ready for it.
