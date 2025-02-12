@@ -1,0 +1,23 @@
+.child-div {
+  border: 1px solid;
+  box-sizing: border-box;
+}
+
+.container {
+  border: 5px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px auto;
+  width: 320px;
+}
+
+.btn {
+  display: block;
+  margin: 0 auto;
+  border: 0;
+  background-color: tomato;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+}
